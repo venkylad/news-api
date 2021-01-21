@@ -1,0 +1,2 @@
+.layout{background-color:#000;text-align:center}.header{background-color:#1890ff;position:fixed;z-index:1;width:100%}.inner_nav{background-color:#0d39af;padding:5px}.inner_nav_form{display:flex;flex-wrap:wrap;flex-direction:column;align-content:center}.inputs{width:300px;border:1px solid grey}.page{padding:5px}.card,.page{text-align:left}.card{width:270px;height:350px;overflow:hidden;text-overflow:ellipsis;margin:5px}.card:hover{box-shadow:0 0 30px #9740e4}.loading{margin:0 auto;width:160px}
+/*# sourceMappingURL=main.aafb866b.chunk.css.map */
